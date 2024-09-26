@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==wclBXM4U1S5A1czVnTuFDT20GNq5WWw9EbNpXbtNXLxtUbKJ1c5kXSKhWLjIGahFVbkpFOpwd=6582415691088',
+  SESSION_ID: 'QUEENELISA;;;==ANsNnM21GO4N3RxllQzgWYD9GZ2dDMzEGW0YnWiJ1QYJkWWZnaUlHUrJmcjIGTaxmUVlEbpwd=9439804331088',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -20,13 +20,13 @@ module.exports = {
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
-  PREFIX: '.$&',
+  PREFIX: '.!/',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  HUSSAIN',
-  OWNER_NUMBER: '01965142856',
-  SUDO: '01965142856',
+  OWNER_NAME: 'ᴍ ʀ  HUSSAIN___💫',
+  OWNER_NUMBER: '01334089349',
+  SUDO: '01334089349',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
@@ -37,7 +37,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
+  AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
